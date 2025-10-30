@@ -1,0 +1,46 @@
+## Scope: <Trello board name>
+
+## Trello link: [Ticket title](https://trello.com/....)
+
+## Screenshot:
+
+
+## Type of change
+
+Please delete options that are not relevant.
+
+- [ ] Bug fix (non-breaking change which fixes an issue)
+- [ ] New feature (non-breaking change which adds functionality)
+- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
+- [ ] This change requires a documentation update
+- [ ] Tests and chores (up)
+
+
+## What has changed:
+
+Please describe what the code is doing (in this repo):
+
+- 
+- 
+
+## Related PRs in other repos
+
+- <Repo name>: [PR Title](https://github.com/...)
+- <Repo name>: [PR Title](https://github.com/...)
+
+## Checklists
+
+- [ ] I have performed a self-review of my code, including Files Changed view
+- [ ] Title in all related PRs have the same name
+- [ ] Fix/feat branches in all related repos are named the same
+- [ ] All related PRs are submitted
+
+## Review
+
+Please note any risks, caveats, migration steps, or additional tasks.
+
+- [ ] PRs have been tested on staging by dev
+- [ ] PRs have been tested on staging by QA
+- [ ] PRs have been tested on staging by QA
+
+Please describe the tests if required, add screenshots if necessary.
