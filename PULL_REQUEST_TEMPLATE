@@ -35,7 +35,8 @@ Please describe what the code is doing (in this repo):
 - [ ] I have performed a self-review of my code, including Files Changed view
 - [ ] Title in all related PRs have the same name
 - [ ] Fix/feat branches in all related repos are named the same
-- [x] All related PRs are submitted
+- [ ] All related PRs are submitted
+- [ ] Trello task is DONE and links back to this PR
 
 ## Review
 
