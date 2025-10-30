@@ -1,12 +1,13 @@
-## Scope: <Trello board name>
+## Scope
 
-## Trello link: [Ticket title](https://trello.com/....)
+<Trello board name>
+[Trello ticket title](https://trello.com/....)
 
-## Screenshot:
+## Screenshot and stage demo link
 
-## Type of change
+[https://iframely.dev/...]()
 
-Please delete options that are not relevant.
+## About the changes
 
 - [ ] Bug fix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
@@ -14,32 +15,31 @@ Please delete options that are not relevant.
 - [ ] This change requires a documentation update
 - [ ] Tests and chores (up)
 
-
-## What has changed:
+### What has changed
 
 Please describe what the code is doing (in this repo):
 
 - 
 - 
 
-## Related PRs in other repos
+### Related PRs in other repos
 
 - <Repo name>: [PR Title](https://github.com/...)
 - <Repo name>: [PR Title](https://github.com/...)
 
-## Checklists
+### Checklists
 
 - [ ] I have performed a self-review of my code, including Files Changed view
 - [ ] Title in all related PRs have the same name
 - [ ] Fix/feat branches in all related repos are named the same
-- [ ] All related PRs are submitted
+- [x] All related PRs are submitted
 
 ## Review
 
-Please note any risks, caveats, migration steps, or additional tasks.
+Please note any risks, caveats, migration steps, release notices or additional tasks.
 
-- [ ] PRs have been tested on staging by dev
+- [ ] PRs have been tested on staging by DEV
 - [ ] PRs have been tested on staging by QA
-- [ ] PRs have been tested on staging by QA
+- [ ] PRs have been tested on staging by PRODUCT
 
-Please describe the tests if required, add screenshots if necessary.
+Please describe the tests if required, add screenshots and links if necessary.
