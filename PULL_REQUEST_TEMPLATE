@@ -1,22 +1,22 @@
 ## Scope
 
-**Board**: <Trello board name>
-**Task**: [Trello ticket title](https://trello.com/....)
+**Category**: <Trello board name, if any>
+**Task**: [Trello or other ticket title](https://...)
 
-## Stage demo link and screenshot
+## Demo and staging
 
-**Link**: [Form name](https://iframely.dev/...)
+**Demo link**: [iframely.dev/... or URL](https://iframely.dev/...)
 
 **Screenshot**:
 
 ## About the changes
 
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] Changes to existing functionality (improvements or deprecations)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] This change requires a documentation update
-- [ ] Tests and chores (up)
+- Bug fix (non-breaking change which fixes an issue)
+- Changes to existing functionality (improvements or deprecations)
+- New feature (non-breaking change which adds functionality)
+- Breaking change (fix or feature that would cause existing functionality to not work as expected)
+- This change requires a documentation update
+- Tests and chores (up)
 
 ### What has changed
 
@@ -30,13 +30,12 @@ Please describe what the code is doing (in this repo):
 - itteco/repo1#1
 - itteco/repo2#1
 
-### Checklists
+### Checklist
 
 - [ ] I have performed a self-review of my code, including Files Changed view
-- [ ] Title in all related PRs have the same name
 - [ ] Fix/feat branches in all related repos are named the same
 - [ ] All related PRs are submitted
-- [ ] Trello task is DONE and links back to this PR
+- [ ] Task is DONE and links back to this PR or no task
 
 ## Review
 
@@ -46,4 +45,4 @@ Please note any risks, caveats, migration steps, release notices or additional t
 - [ ] PRs have been tested on staging by QA
 - [ ] PRs have been tested on staging by PRODUCT
 
-Please describe the tests if required, add screenshots and links if necessary.
+*Please describe the tests and give additional instructions if required, add screenshots and links if necessary.*
